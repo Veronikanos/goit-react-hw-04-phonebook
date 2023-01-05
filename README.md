@@ -6,10 +6,10 @@ This project was bootstrapped with
 You can find live page
 [here](https://veronikanos.github.io/goit-react-hw-04-phonebook/).
 
-There is a separate file for each component in the src/components folder. This
-is the task started from
-[this repository](https://github.com/Veronikanos/goit-react-hw-02-phonebook) and
-refactored with react hooks. Styling is done by CSS modules
+There is a updated task from [this repository](https://veronikanos.github.io/goit-react-hw-03-phonebook/) and
+refactored with react hooks. Styling is done by CSS modules. Contacts are saved to browser's local storage so there are  saved after the page is refreshed and after the browser is restarted.
+
+Styling is done by CSS modules
 
 Coded by Tlostiuk Veronika.
 
@@ -20,19 +20,18 @@ doesn't save review statistics between different sessions (page refresh).
 
 #### App's initial view:
 
-![Screenshot_11](https://user-images.githubusercontent.com/49239848/208961485-a7132179-8ce1-4661-9b8e-22c26663c9a0.png)
+![Screenshot_15](https://user-images.githubusercontent.com/49239848/209429287-c99f6901-f5bc-4351-9c5e-d961d12d3c84.png)
 
 #### Vanilla validation on input fields without possibility to add an ivalid contact:
 
-![Screenshot_13](https://user-images.githubusercontent.com/49239848/208961712-ec15a460-da37-450b-a809-b388ac72f8d8.png)
+![Screenshot_13](https://user-images.githubusercontent.com/49239848/209429356-112d520c-9a35-4e43-881a-e9d49f825999.png)
 
 #### All contact's list, allowing the user to delete previously saved contacts:
-
-![Screenshot_15](https://user-images.githubusercontent.com/49239848/208962029-dd677296-c3b8-4736-aa5b-70c94bc85a74.png)
+![Screenshot_17](https://user-images.githubusercontent.com/49239848/209429375-7f1002dd-5b0e-4c87-a9fd-351c6bb67207.png)
 
 #### Filter by contact name:
 
-![Screenshot_16](https://user-images.githubusercontent.com/49239848/208962346-f44f0bfe-9252-4139-a9c2-ce6123115b44.png)
+![Screenshot_16](https://user-images.githubusercontent.com/49239848/209429378-071b9266-dd69-468f-b03e-9996a11dec53.png)
 
 ---
 
