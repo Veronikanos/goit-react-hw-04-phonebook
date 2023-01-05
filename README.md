@@ -1,4 +1,4 @@
-# Homework 2-2 by React course, GoIT school - Phonebook
+# Homework 4-2 by React course, GoIT school - Phonebook
 
 This project was bootstrapped with
 [Create React App](https://github.com/facebook/create-react-app).
